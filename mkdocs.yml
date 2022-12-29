@@ -14,7 +14,7 @@ copyright: Copyright &copy; 2022 Eric Desgroseilliers
 theme:
     name: material
     icon: 
-        logo: material/gamepad-variant
+        logo: material/dumbbell
         admonition:
             danger: material/heart
         
