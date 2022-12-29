@@ -65,14 +65,17 @@ markdown_extensions:
 # Page tree
 nav:
     - Home: "index.md"
-    - Getting Started: "getting-started.md"
-    - Supported Games:
-        - Cannon Fodder: "games/cannon-fodder.md"
-    - Mods:
-        - Quake:
-            - Alkaline: "mods/alkaline.md"
-            - Arcane Dimensions: "mods/arcane-dimensions.md"
-            - Quake Brutalist Jam: "mods/quake-brutalist-jam.md"
+    - Schedule: "getting-started.md"
+    - Workouts:
+        - HIIT:
+            - Tabata: "workouts/tabata-1.md"
+            - 30-20-10: "workouts/30-20-10.md"
+            - Sweaty Sevens: "workouts/sweaty-sevens.md"
+            - 60 to 10: "workouts/60-to-10.md"
+        - Strength:
+            - TRX Chest & Triceps: "workouts/trx-chest-tricep.md"
+    - Exercises:
+        - TRX Tricep Extension: "exercise/trx-tricep-extension.md"
     - About:
         - About: "about/about.md"
         - Philosophy: "about/philosophy.md"
