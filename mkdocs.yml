@@ -65,7 +65,9 @@ markdown_extensions:
 # Page tree
 nav:
     - Home: "index.md"
-    - Schedule: "getting-started.md"
+    - Schedule:
+        - Schedules: "schedules/index.md"
+        - TRX: "schedules/trx.md"
     - Workouts:
         - HIIT:
             - Tabata: "workouts/tabata-1.md"
