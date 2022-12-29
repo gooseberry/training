@@ -10,6 +10,10 @@ repo_url: https://github.com/gooseberry/training
 # Copyright
 copyright: Copyright &copy; 2022 Eric Desgroseilliers
 
+# Additional CSS
+extra_css:
+  - stylesheets/extra.css
+
 # Configuration
 theme:
     name: material
