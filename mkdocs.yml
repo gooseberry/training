@@ -65,10 +65,11 @@ markdown_extensions:
 # Page tree
 nav:
     - Home: "index.md"
-    - Schedule:
-        - Schedules: "schedules/index.md"
+    - Schedules:
+        - Intro: "schedules/index.md"
         - TRX: "schedules/trx.md"
     - Workouts:
+        - Intro: "workouts/index.md"
         - HIIT:
             - Tabata: "workouts/tabata-1.md"
             - 30-20-10: "workouts/30-20-10.md"
@@ -80,7 +81,8 @@ nav:
             - Saluation Flow: "workouts/yoga-salutation.md"
             - Balance: "workouts/yoga-balance.md"
     - Exercises:
-        - TRX Tricep Extension: "exercise/trx-tricep-extension.md"
+        - Intro: "exercises/index.md"
+        - TRX Tricep Extension: "exercises/trx-tricep-extension.md"
     - About:
         - About: "about/about.md"
         - Philosophy: "about/philosophy.md"
