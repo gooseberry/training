@@ -1,0 +1,76 @@
+# Site Information
+site_name: Training
+site_url: https://gooseberry.github.io/training/
+site_author: Eric Desgroseilliers
+
+#  Repository
+repo_name: gooseberry/training
+repo_url: https://github.com/gooseberry/training
+
+# Copyright
+copyright: Copyright &copy; 2022 Eric Desgroseilliers
+
+# Configuration
+theme:
+    name: material
+    icon: 
+        logo: material/gamepad-variant
+        admonition:
+            danger: material/heart
+        
+    palette:
+
+        # Palette toggle for light mode
+        - media: "(prefers-color-scheme: light)"
+          scheme: default
+          toggle:
+            icon: material/brightness-7
+            name: Switch to dark mode
+
+        # Palette toggle for dark mode
+        - media: "(prefers-color-scheme: dark)"
+          scheme: slate
+          toggle:
+            icon: material/brightness-3
+            name: Switch to light mode
+
+
+    # Features
+    features:
+        - navigation.instant
+        - navigation.tracking
+        - navigation.tabs
+        - navigation.top
+
+# Extensions
+markdown_extensions:
+    - admonition
+    - wikilinks
+    - attr_list
+    - pymdownx.superfences
+    - pymdownx.tabbed:
+        alternate_style: true 
+    - pymdownx.emoji:
+        emoji_index: !!python/name:materialx.emoji.twemoji
+        emoji_generator: !!python/name:materialx.emoji.to_svg
+    - pymdownx.keys
+    - pymdownx.snippets:
+        base_path: 
+            - "docs/assets/snippets"
+
+# Page tree
+nav:
+    - Home: "index.md"
+    - Getting Started: "getting-started.md"
+    - Supported Games:
+        - Cannon Fodder: "games/cannon-fodder.md"
+    - Mods:
+        - Quake:
+            - Alkaline: "mods/alkaline.md"
+            - Arcane Dimensions: "mods/arcane-dimensions.md"
+            - Quake Brutalist Jam: "mods/quake-brutalist-jam.md"
+    - About:
+        - About: "about/about.md"
+        - Philosophy: "about/philosophy.md"
+        - Alternatives: "about/alternatives.md"
+        - Appreciation: "about/appreciation.md"
