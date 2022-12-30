@@ -1,8 +1,13 @@
 # 30-20-10 Workout - Full Body 1
 
-!!! bug "Cardio"
+!!! quote "Workout Type"
 
-!!! warning "Strength"
+    !!! success "Interval"
+
+    !!! bug "Cardio"
+
+    !!! warning "Strength"
+    
 
 |    | Round 1: Cardio   |    |    | Round 2: Legs  |
 |---:|:------------------|----|---:|:---------------|

@@ -23,6 +23,8 @@ theme:
             bug: material/heart-pulse
             warning: material/weight-lifter
             example: material/yoga
+            success: material/timer-outline
+            quote: material/run
         
     palette:
 
