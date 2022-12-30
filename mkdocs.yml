@@ -28,10 +28,6 @@ theme:
             abstract: material/yin-yang
         tag:
             str: material/weight-lifter
-
-    extra:
-        tags:
-            strength: str
         
     palette:
 
@@ -61,6 +57,11 @@ theme:
         - navigation.tabs
         - navigation.top
         - navigation.indexes
+
+# Extras
+extra:
+        tags:
+            strength: str
 
 # Extensions
 markdown_extensions:
