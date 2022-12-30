@@ -27,7 +27,7 @@ theme:
             quote: material/run
             abstract: material/yin-yang
         tag:
-            strength: material/weigth-lifter
+            strength: material/weight-lifter
 
     extra:
         tags:
