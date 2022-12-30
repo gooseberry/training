@@ -28,6 +28,7 @@ theme:
             abstract: material/yin-yang
         tag:
             str: material/weight-lifter
+            arm: material/arm-flex
         
     palette:
 
@@ -62,6 +63,8 @@ theme:
 extra:
     tags:
         strength: str
+        bicep: arm
+        tricep: arm
 
 # Extensions
 markdown_extensions:

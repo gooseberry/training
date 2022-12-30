@@ -1,3 +1,10 @@
+---
+tags:
+    - strength
+    - tricep
+    - exercise
+---
+
 # TRX Tricep Extension
 
 !!! warning "Strength"
