@@ -113,7 +113,7 @@ nav:
             - Full Body 1: workouts/30-20-10/full-body-1.md
         - Strength:
             - workouts/strength/index.md
-            - TRX Chest & Triceps: "workouts/trx-chest-tricep.md"
+            - TRX Chest & Triceps: "workouts/strength/trx-chest-tricep.md"
     - Exercises:
         - exercises/index.md
         - Bear Push Up: "exercises/bear-push-up.md"
