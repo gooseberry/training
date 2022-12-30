@@ -1,12 +1,21 @@
 :root {
   --md-admonition-icon--equipment: url('data:image/svg+xml;charset=utf-8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20.57 14.86 22 13.43 20.57 12 17 15.57 8.43 7 12 3.43 10.57 2 9.14 3.43 7.71 2 5.57 4.14 4.14 2.71 2.71 4.14l1.43 1.43L2 7.71l1.43 1.43L2 10.57 3.43 12 7 8.43 15.57 17 12 20.57 13.43 22l1.43-1.43L16.29 22l2.14-2.14 1.43 1.43 1.43-1.43-1.43-1.43L22 16.29l-1.43-1.43Z"/></svg>')
+  --md-admonition-icon--cardio: url('data:image/svg+xml;charset-utf-8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M7.5 4A5.5 5.5 0 0 0 2 9.5c0 .5.09 1 .22 1.5H6.3l1.27-3.37c.3-.8 1.48-.88 1.86 0L11.5 13l.59-1.42c.13-.33.48-.58.91-.58h8.78c.13-.5.22-1 .22-1.5A5.5 5.5 0 0 0 16.5 4c-1.86 0-3.5.93-4.5 2.34C11 4.93 9.36 4 7.5 4M3 12.5a1 1 0 0 0-1 1 1 1 0 0 0 1 1h2.44L11 20c1 .9 1 .9 2 0l5.56-5.5H21a1 1 0 0 0 1-1 1 1 0 0 0-1-1h-7.6l-.93 2.3c-.4 1.01-1.55.87-1.92.03L8.5 9.5l-.96 2.33c-.15.38-.49.67-.94.67H3Z"/></svg>')
 }
 .md-typeset .admonition.equipment,
 .md-typeset details.equipment {
   border-color: rgb(255, 236, 61);
 }
+.md-typeset .admonition.cardio,
+.md-typeset details.cardio {
+  border-color: rgb(255, 236, 61);
+}
 .md-typeset .equipment > .admonition-title,
 .md-typeset .equipment > summary {
+  background-color: rgba(255, 236, 61, 0.1);
+}
+.md-typeset .cardio > .admonition-title,
+.md-typeset .cardio > summary {
   background-color: rgba(255, 236, 61, 0.1);
 }
 .md-typeset .equipment > .admonition-title::before,
@@ -15,3 +24,11 @@
   -webkit-mask-image: var(--md-admonition-icon--equipment);
           mask-image: var(--md-admonition-icon--equipment);
 }
+.md-typeset .cardio > .admonition-title::before,
+.md-typeset .cardio > summary::before {
+  background-color: rgb(245, 0, 87);
+  -webkit-mask-image: var(--md-admonition-icon--cardio);
+          mask-image: var(--md-admonition-icon--cardio);
+}
+
+

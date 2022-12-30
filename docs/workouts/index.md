@@ -11,7 +11,7 @@ The 30-20-10 Workout routine is a variety on the High Intensity Interval Trainin
 
 The table below outlines a basic 30-20-10 round with three different exercises.  Note the number next to each exercise which denotes the amount of time dedicated to each.
 
-!!! bug "Example"
+!!! cardio "Example"
 
     ##### Round 1: Cardio - 4 sets
 
@@ -23,7 +23,7 @@ The table below outlines a basic 30-20-10 round with three different exercises. 
 
 In this example, your first round starts with 30 seconds of Mountain Climbers, followed immediately with 20 seconds of High Knees, and finally 10 seconds of Shuffle.  Once you complete the 10 seconds of Shuffle, you should immediately return to the Mountain Climbers for another 30 seconds and continue in this order until you have completed each exercise 4 times.  Once you've completed this, take a full minute break, grab some water and catch your breath before jumping into the next round.  
 
-!!! bug "Example"
+!!! cardio "Example"
 
     ##### Round 2: Legs - 4 sets
 
