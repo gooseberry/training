@@ -9,7 +9,7 @@ The 30-20-10 Workout routine is a variety on the High Intensity Interval Trainin
 The table below outlines a basic 30-20-10 round with three different exercises.  Note the number next to each exercise which denotes the amount of time dedicated to each.
 
 |    |  Round 1: Cardio |    |    |  Round 2: Legs |
-|----|------------------|----|----|----------------|
+|---:|:-----------------|----|---:|:---------------|
 | 30 | Mountain Climbers |   | 30 | Jump Lunges    |
 | 20 | High Knees       |    | 20 | Jump Squat     |
 | 10 | Shuffle          |    | 10 | Squat Hold     |
