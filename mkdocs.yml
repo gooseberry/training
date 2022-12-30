@@ -74,7 +74,7 @@ extra:
         shoulder: arm
         core: arm
         TRX: trx
-        interva: int
+        interval: int
         cardio: crd
         full-body: str
 
