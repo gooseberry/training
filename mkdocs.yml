@@ -26,6 +26,12 @@ theme:
             success: material/timer-outline
             quote: material/run
             abstract: material/yin-yang
+        tag:
+            strength: material/weigth-lifter
+
+    extra:
+        tags:
+            strength: strength
         
     palette:
 
