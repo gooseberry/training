@@ -5,14 +5,13 @@ tags:
 ---
 # 30-20-10 Full Body Workout 1
 
-## Round 1: Cardio - 4 sets
-Repeat all the exercises in this round 4 times without taking a pause.  Take a 1 minute break before proceeding to the next round.
+!!! interval "Round 1: Cardion - 4 sets
 
-| Exercise                                            | Duration |
-|------------------                                   |----------|
-| [Mountain Climbers](../exercises/mountain-climber.md) | 30 secs |
-| [High Knees](../exercises/high-knees.md)              | 20 secs |
-| [Shuffle](../exercises/shuffle.md)                    | 10 secs |
+    | Exercise                                            | Duration |
+    |------------------                                   |----------|
+    | [Mountain Climbers](../exercises/mountain-climber.md) | 30 secs |
+    | [High Knees](../exercises/high-knees.md)              | 20 secs |
+    | [Shuffle](../exercises/shuffle.md)                    | 10 secs |
 
 ## Round 2: Legs - 4 sets
 Repeat all the exercises in this round 4 times without taking a pause.  Take a 1 minute break before proceeding to the next round.
