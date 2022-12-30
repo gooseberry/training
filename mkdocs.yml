@@ -27,11 +27,11 @@ theme:
             quote: material/run
             abstract: material/yin-yang
         tag:
-            strength: material/weight-lifter
+            str: material/weight-lifter
 
     extra:
         tags:
-            strength: strength
+            strength: str
         
     palette:
 
