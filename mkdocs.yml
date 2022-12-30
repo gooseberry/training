@@ -30,6 +30,8 @@ theme:
             str: material/weight-lifter
             arm: material/arm-flex
             trx: material/hanger
+            int: material/timer-outline
+            crd: material/heart-pulse
         
     palette:
 
@@ -72,6 +74,9 @@ extra:
         shoulder: arm
         core: arm
         TRX: trx
+        interva: int
+        cardio: crd
+        full-body: str
 
 # Extensions
 markdown_extensions:
