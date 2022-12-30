@@ -20,7 +20,9 @@ theme:
     icon: 
         logo: material/dumbbell
         admonition:
-            danger: material/heart
+            bug: material/heart-pulse
+            warning: material/weight-lifter
+            example: material/yoga
         
     palette:
 
