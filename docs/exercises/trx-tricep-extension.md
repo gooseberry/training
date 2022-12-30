@@ -1,6 +1,8 @@
 # TRX Tricep Extension
 
-!!! dumbell "Equipment"
+!!! warning "Strength"
+
+!!! dumbbell "Equipment"
 
     You will need the following equipment to complete this exercise
     
