@@ -1,8 +1,6 @@
 # TRX Bicep Curl
 
-==strength==
-`==strength==`
-==`strength`==
+`strength`
 
 !!! dumbell "Equipment"
 
