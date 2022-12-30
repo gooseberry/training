@@ -29,9 +29,10 @@ theme:
         tag:
             str: material/weight-lifter
             arm: material/arm-flex
-            trx: material/hanger
+            dbl: material/dumbbell
             int: material/timer-outline
             crd: material/heart-pulse
+            yoga: material/yoga
         
     palette:
 
@@ -73,10 +74,11 @@ extra:
         back: arm
         shoulder: arm
         core: arm
-        TRX: trx
+        TRX: dbl
         interval: int
         cardio: crd
         full-body: str
+        yoga: yoga
 
 # Extensions
 markdown_extensions:
