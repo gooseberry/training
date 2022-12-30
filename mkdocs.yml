@@ -25,6 +25,7 @@ theme:
             example: material/yoga
             success: material/timer-outline
             quote: material/run
+            abstract: material/yin-yang
         
     palette:
 
@@ -76,6 +77,11 @@ markdown_extensions:
         base_path: 
             - "docs/assets/snippets"
 
+# Plugins
+plugins:
+    - tags:
+        tag_file: about/tags.md
+
 # Page tree
 nav:
     - Home: "index.md"
@@ -101,6 +107,7 @@ nav:
         - TRX Bicep Curl: "exercises/trx-bicep-curl.md"
         - TRX Tricep Extension: "exercises/trx-tricep-extension.md"
     - About:
+        - Tags: "about/tags.md"
         - About: "about/about.md"
         - Philosophy: "about/philosophy.md"
         - Alternatives: "about/alternatives.md"

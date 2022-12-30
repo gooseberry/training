@@ -1,3 +1,10 @@
+---
+tags:
+    - Strength
+    - Bicep
+    - Exercise
+---
+
 # TRX Bicep Curl
 
 !!! warning "Strength"
