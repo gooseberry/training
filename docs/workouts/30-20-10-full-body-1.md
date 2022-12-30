@@ -7,21 +7,17 @@ tags:
 
 !!! interval "Round 1: Cardio - 4 sets"
 
-    | Exercise                                            | Duration |
-    |------------------                                   |----------|
     | [Mountain Climbers](../exercises/mountain-climber.md) | 30 secs |
-    | [High Knees](../exercises/high-knees.md)              | 20 secs |
-    | [Shuffle](../exercises/shuffle.md)                    | 10 secs |
+    |------------------                                     |----------|
+    | **[High Knees](../exercises/high-knees.md)**          | **20 secs** |
+    | **[Shuffle](../exercises/shuffle.md)**                | **10 secs** |
 
+!!! interval "Round 2: Legs - 4 sets"
 
-## Round 2: Legs - 4 sets
-Repeat all the exercises in this round 4 times without taking a pause.  Take a 1 minute break before proceeding to the next round.
-
-| Exercise                                 | Duration |
-|---                                       |----------|
-| [Jump Lunges](../exercises/jump-lunge.md)  | 30 secs |
-| [Jump Squats](../exercises/jump-squat.md)  | 20 secs |
-| [Squat Hold](../exercises/squat-hold.md)   | 10 secs |
+    | [Jump Lunges](../exercises/jump-lunge.md)  | 30 secs |
+    |---                                       |----------|
+    | **[Jump Squats](../exercises/jump-squat.md)**  | **20 secs** |
+    | **[Squat Hold](../exercises/squat-hold.md)**   | **10 secs** |
 
 ## Round 3: Upper Body - 4 sets
 Repeat all the exercises in this round 4 times without taking a pause.  Take a 1 minute break before proceeding to the next round.
