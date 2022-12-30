@@ -77,7 +77,7 @@ nav:
     - Home: "index.md"
     - Schedules:
         - Intro: "schedules/index.md"
-        - TRX: "schedules/trx.md"
+        - TRX 1 Week Program: "schedules/trx-1-week-program.md"
     - Workouts:
         - Intro: "workouts/index.md"
         - HIIT:
