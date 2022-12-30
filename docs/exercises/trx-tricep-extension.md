@@ -7,3 +7,5 @@
     * TRX Suspension System
 
 ## Description
+
+For some reason, the icon isn't showing up
