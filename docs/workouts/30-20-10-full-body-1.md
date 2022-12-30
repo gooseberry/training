@@ -5,7 +5,7 @@ tags:
 ---
 # 30-20-10 Full Body Workout 1
 
-!!! interval "Round 1: Cardion - 4 sets
+!!! interval "Round 1: Cardio - 4 sets
 
     | Exercise                                            | Duration |
     |------------------                                   |----------|
