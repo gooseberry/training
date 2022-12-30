@@ -48,8 +48,8 @@
 .md-typeset .strength > .admonition-title::before,
 .md-typeset .strength > summary::before {
   background-color: rgb(255, 236, 61);
-  -webkit-mask-image: var(--md-admonition-icon--cardio);
-          mask-image: var(--md-admonition-icon--cardio);
+  -webkit-mask-image: var(--md-admonition-icon--strength);
+          mask-image: var(--md-admonition-icon--strength);
 }
 
 :root {
@@ -66,6 +66,6 @@
 .md-typeset .interval > .admonition-title::before,
 .md-typeset .interval > summary::before {
   background-color: rgb(255, 236, 61);
-  -webkit-mask-image: var(--md-admonition-icon--cardio);
-          mask-image: var(--md-admonition-icon--cardio);
+  -webkit-mask-image: var(--md-admonition-icon--interval);
+          mask-image: var(--md-admonition-icon--interval);
 }
