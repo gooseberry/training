@@ -1,6 +1,6 @@
 # 30-20-10 Workout - Full Body 1
 
-!!! danger "Cardio"
+!!! bug "Cardio"
 
 !!! warning "Strength"
 
