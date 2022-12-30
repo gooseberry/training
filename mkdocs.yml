@@ -81,9 +81,11 @@ nav:
         - TRX 1 Week Program: "schedules/trx-1-week-program.md"
     - Workouts: 
         - workouts/index.md
+        - 30-20-10:
+            - workouts/30-20-10/index.md
+            - Full Body 1: workouts/30-20-10/full-body-1.md
         - HIIT:
             - Tabata: "workouts/tabata-1.md"
-            - 30-20-10: "workouts/30-20-10.md"
             - Sweaty Sevens: "workouts/sweaty-sevens.md"
             - 60 to 10: "workouts/60-to-10.md"
         - Strength:
