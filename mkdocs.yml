@@ -51,6 +51,7 @@ theme:
         - navigation.tracking
         - navigation.tabs
         - navigation.top
+        - navigation.indexes
 
 # Extensions
 markdown_extensions:
@@ -75,11 +76,11 @@ markdown_extensions:
 # Page tree
 nav:
     - Home: "index.md"
-    - Schedules:
-        - Intro to Schedules: "schedules/index.md"
+    - Schedules: 
+        - schedules/index.md
         - TRX 1 Week Program: "schedules/trx-1-week-program.md"
-    - Workouts:
-        - Intro to Workouts: "workouts/index.md"
+    - Workouts: 
+        - workouts/index.md
         - HIIT:
             - Tabata: "workouts/tabata-1.md"
             - 30-20-10: "workouts/30-20-10.md"
@@ -91,7 +92,7 @@ nav:
             - Saluation Flow: "workouts/yoga-salutation.md"
             - Balance: "workouts/yoga-balance.md"
     - Exercises:
-        - Intro to Exercises: "exercises/index.md"
+        - exercises/index.md
         - TRX Bicep Curl: "exercises/trx-bicep-curl.md"
         - TRX Tricep Extension: "exercises/trx-tricep-extension.md"
     - About:
