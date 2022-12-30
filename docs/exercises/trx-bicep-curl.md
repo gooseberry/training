@@ -1,5 +1,9 @@
 # TRX Bicep Curl
 
+==strength==
+`==strength==`
+==`strength`==
+
 !!! dumbell "Equipment"
 
     You will need the following equipment to complete this exercise
