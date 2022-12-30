@@ -10,9 +10,9 @@ Repeat all the exercises in this round 4 times without taking a pause.  Take a 1
 
 | Exercise                                            | Duration |
 |------------------                                   |----------|
-| [Mountain Climbers](/exercises/mountain-climber.md) | 30 secs |
+| [Mountain Climbers](../../exercises/mountain-climber.md) | 30 secs |
 | [High Knees](/exercises/high-knees.md)              | 20 secs |
-| [Shuffle] (/exercises/shuffle)                      | 10 secs |
+| [Shuffle](/exercises/shuffle.md)                    | 10 secs |
 
 ## Round 2: Legs - 4 sets
 Repeat all the exercises in this round 4 times without taking a pause.  Take a 1 minute break before proceeding to the next round.

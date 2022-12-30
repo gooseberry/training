@@ -20,7 +20,7 @@ Complete 3 full sets of each exercise in this round, taking a 30-60 seconds paus
 
 | Exercise                                                       | Reps |
 |----------                                                      |:-----|
-| [TRX Tricep Extensions](exercises/trx-tricep-extension.md)     | 10 |
+| [TRX Tricep Extensions](../../exercises/trx-tricep-extension.md)     | 10 |
 | [TRX Wide Grip Chest Press](exercises/trx-wide-chest-press.md) | 10 |
 
 ## Round 2 - 3 sets
