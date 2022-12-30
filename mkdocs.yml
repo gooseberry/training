@@ -86,6 +86,7 @@ nav:
             - Balance: "workouts/yoga-balance.md"
     - Exercises:
         - Intro: "exercises/index.md"
+        - TRX Bicep Curl: "exercises/trx-bicep-curl.md"
         - TRX Tricep Extension: "exercises/trx-tricep-extension.md"
     - About:
         - About: "about/about.md"
