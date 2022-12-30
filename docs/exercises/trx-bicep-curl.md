@@ -1,8 +1,8 @@
 # TRX Bicep Curl
 
-This exercise is geared towards `strength` conditioning
+!!! warning "Strength"
 
-!!! dumbell "Equipment"
+!!! dumbbell "Equipment"
 
     You will need the following equipment to complete this exercise
     
