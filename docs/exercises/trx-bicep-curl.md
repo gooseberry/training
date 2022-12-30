@@ -1,8 +1,8 @@
 ---
 tags:
-    - Strength
-    - Bicep
-    - Exercise
+    - strength
+    - bicep
+    - exercise
 ---
 
 # TRX Bicep Curl
