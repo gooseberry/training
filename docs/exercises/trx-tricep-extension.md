@@ -2,18 +2,16 @@
 tags:
     - strength
     - tricep
-    - exercise
+    - TRX
 ---
 
 # TRX Tricep Extension
 
-!!! warning "Strength"
-
-!!! dumbbell "Equipment"
+!!! equipment "Equipment"
 
     You will need the following equipment to complete this exercise
     
-    * TRX Suspension System
+    * TRX Suspension Trainer
 
 ## Description
 

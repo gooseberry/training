@@ -29,6 +29,7 @@ theme:
         tag:
             str: material/weight-lifter
             arm: material/arm-flex
+            trx: material/hanger
         
     palette:
 
@@ -65,6 +66,12 @@ extra:
         strength: str
         bicep: arm
         tricep: arm
+        legs: arm
+        chest: arm
+        back: arm
+        shoulder: arm
+        core: arm
+        TRX: trx
 
 # Extensions
 markdown_extensions:
@@ -104,22 +111,41 @@ nav:
         - 30-20-10:
             - workouts/30-20-10/index.md
             - Full Body 1: workouts/30-20-10/full-body-1.md
-        - HIIT:
-            - Tabata: "workouts/tabata-1.md"
-            - Sweaty Sevens: "workouts/sweaty-sevens.md"
-            - 60 to 10: "workouts/60-to-10.md"
         - Strength:
+            - workouts/strength/index.md
             - TRX Chest & Triceps: "workouts/trx-chest-tricep.md"
-        - Yoga:
-            - Saluation Flow: "workouts/yoga-salutation.md"
-            - Balance: "workouts/yoga-balance.md"
     - Exercises:
         - exercises/index.md
+        - Bear Push Up: "exercises/bear-push-up.md"
+        - Bear Should Tap: "exercises/bear-shoulder-tap.md"
+        - Burpee: "exercises/burpee.md"
+        - Figure 8: "exercises/figure-8.md"
+        - Frog Squat: "exercises/frog-squat.md"
+        - Heals to the Heavens: "exercises/heals-heaven.md"
+        - High Knees: "exercises/high-knees.md"
+        - Hollow Body Hold: "exercises/hollow-body.md"
+        - In & Out Plank: "exercises/in-out-plank.md"
+        - In & Out V-Sit: "exercises/in-out-v-sit.md"
+        - Jack Knife: "exercises/jack-knife.md"
+        - Jump Lunge: "exercises/jump-lunge.md"
+        - Jump Squat: "exercises/jump-squat.md"
+        - Mason Twist: "exercises/mason-twist.md"
+        - Mountain Climber: "exercises/mountain-climber.md"
+        - Plank Shoulder Tap: "exercises/plank-shoulder-tap.md"
+        - Pulse Squat: "exercises/pulse-squat.md"
+        - Push Up: "exercises/push-up.md"
+        - Shuffle: "exercises/shuffle.md"
+        - Slow Bicycle: "exercises/slow-bicycle.md"
+        - Squat Hold: "exercises/squat-hold.md"
+        - Star Jump: "exercises/star-jump.md"
         - TRX Bicep Curl: "exercises/trx-bicep-curl.md"
+        - TRX Chest Fly: "exercises/trx-chest-fly.md"
+        - TRX Clock Press: "exercises/trx-clock-press.md"
+        - TRX Close-Grip Press: "exercises/trx-close-press.md"
+        - TRX Dip: "exercises/trx-dip.md"
         - TRX Tricep Extension: "exercises/trx-tricep-extension.md"
+        - TRX Wide-Grip Chest Press: "exercises/trx-wide-chest-press.md"
+        - V-Sit Hold: "exercises/v-sit-hold.md"
     - About:
+        - about/index.md
         - Tags: "about/tags.md"
-        - About: "about/about.md"
-        - Philosophy: "about/philosophy.md"
-        - Alternatives: "about/alternatives.md"
-        - Appreciation: "about/appreciation.md"

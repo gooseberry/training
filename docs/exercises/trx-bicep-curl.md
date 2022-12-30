@@ -2,18 +2,16 @@
 tags:
     - strength
     - bicep
-    - exercise
+    - TRX
 ---
 
 # TRX Bicep Curl
 
-!!! warning "Strength"
-
-!!! dumbbell "Equipment"
+!!! equipment "Equipment"
 
     You will need the following equipment to complete this exercise
     
-    * TRX Suspension System
+    * TRX Suspension Trainer
 
 ## Instructions
 

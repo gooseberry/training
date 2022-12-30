@@ -1,21 +1,25 @@
 # Exercises
 
-## Sample Excercise Breakdown
+Each individual exercise is outlined in a dedicated page according to a specific structure
 
-### Focus
+## Tags
 
-Each Exercise sheet will start with a **Focus** section that outlines the objective of that particular exercise.  While some exercises can offer multiple benefits, this will not always be reflected in this section.
+Tags are used to within exercises, workouts, and schedules to help identify and categorize these and improve search results within this site.  Tags are mostly used to identify categories, muscle groups, and required equipment.  You can have a look at a _tags_ index for this site [here](about/tags.md).
 
-???+ quote "Focus"
+### Categories
 
-    !!! warning "Strength"
+Every exercise, workout, and schedule in this site are designed to tackle one of the four fitness categories listed below.   
 
-    !!! bug "Cardio"
+* `Strength`
+* `Cardio`
+* `Stretch`
+* `Balance`
 
-    !!! example "Flexibility"
+### Muscle Groups
 
-    !!! abstract "Balance"
+Specific muscle group tags are not listed on every page.  These 
 
-### Equipment
+
+## Equipment
 
 Some 

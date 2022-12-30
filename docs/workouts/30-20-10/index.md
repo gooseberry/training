@@ -1,3 +1,9 @@
+---
+tags:
+    - cardio
+    - interval
+---
+
 # 30-20-10 Workout
 
 ## Description
