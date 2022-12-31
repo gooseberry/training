@@ -17,7 +17,7 @@ extra_css:
 # Configuration
 theme:
     name: material
-    favicon: images/favicon.png
+    favicon: assets/images/favicon.png
     icon: 
         logo: material/dumbbell
         admonition:

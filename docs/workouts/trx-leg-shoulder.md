@@ -2,7 +2,7 @@
 tags:
     - strength
     - legs
-    - shoulders
+    - shoulder
     - core
     - TRX
 ---
