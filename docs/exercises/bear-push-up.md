@@ -4,6 +4,7 @@ tags:
     - chest
     - shoulder
     - tricep
+    - no-gear
 ---
 
 #  Bear Push Up

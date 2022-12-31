@@ -2,6 +2,7 @@
 tags:
     - strength
     - core
+    - no-gear
 ---
 
 #  Mason Twist

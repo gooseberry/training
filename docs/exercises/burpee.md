@@ -2,6 +2,7 @@
 tags:
     - cardio
     - full-body
+    - no-gear
 ---
 
 #  Burpee

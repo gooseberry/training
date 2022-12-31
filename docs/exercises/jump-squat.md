@@ -3,6 +3,7 @@ tags:
     - strength
     - cardio
     - legs
+    - no-gear
 ---
 
 #  Jump Squat

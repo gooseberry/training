@@ -1,6 +1,7 @@
 ---
 tags:
     - cardio
+    - no-gear
 ---
 
 #  Butt Kicks

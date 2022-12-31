@@ -2,6 +2,7 @@
 tags:
     - strength
     - core
+    - no-gear
 ---
 
 #  Hollow Body Hold

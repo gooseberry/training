@@ -5,6 +5,7 @@ tags:
     - shoulder
     - core
     - tricep
+    - no-gear
 ---
 
 #  Bear Shoulder Tap

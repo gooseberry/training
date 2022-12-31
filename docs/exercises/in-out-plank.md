@@ -2,6 +2,7 @@
 tags:
     - cardio
     - core
+    - no-gear
 ---
 
 #  In & Out Plank

@@ -2,6 +2,7 @@
 tags:
     - strength
     - core
+    - no-gear
 ---
 
 #  1 Up 2 Down

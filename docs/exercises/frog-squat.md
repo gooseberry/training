@@ -2,6 +2,7 @@
 tags:
     - strength
     - legs
+    - no-gear
 ---
 
 #  Frog Squat

@@ -3,6 +3,7 @@ tags:
     - strength
     - cardio
     - legs
+    - no-gear
 ---
 
 #  Jump Lunge
@@ -24,3 +25,7 @@ tags:
 !!! cardio "Variation for cardio"
 
     Sacrifice some depth in your lunge to increase the speed of the switches, jumping more often but staying higher in the lunge.  The faster movement will increase your heart rate during a cardio workout.
+
+!!! yoga "Variation for low impact"
+
+    As a low-impact alternative, you can perform alternating reverse lunges.  The reverse lunge doesn't provide as intense of a cardio workout and can also be used as an active recovery if you are too exhausted.
