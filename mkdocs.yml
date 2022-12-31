@@ -81,7 +81,7 @@ extra:
         cardio: crd
         full-body: str
         yoga: yoga
-        nogear: nogear
+        no-gear: nogear
 
 # Extensions
 markdown_extensions:

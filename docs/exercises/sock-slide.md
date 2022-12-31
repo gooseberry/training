@@ -2,7 +2,7 @@
 tags:
     - strength
     - core
-    - nogear
+    - no-gear
 ---
 
 #  Sock Slides
