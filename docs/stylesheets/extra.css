@@ -88,4 +88,20 @@
           mask-image: var(--md-admonition-icon--rest);
 }
 
-
+:root {
+  --md-admonition-icon--yoga: url('data:image/svg+xml;charset-utf-8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M13 2a2 2 0 1 0 0 4c1.11 0 2-.89 2-2a2 2 0 0 0-2-2M4 7v2h6v6l-5.07 5.07 1.41 1.43 6.72-6.73L17 17.13V21h2v-4.43c0-.36-.18-.68-.5-.86L15 13.6V9h6V7H4Z"/></svg>')
+}
+.md-typeset .admonition.yoga,
+.md-typeset details.yoga {
+  border-color: rgb(255, 236, 61);
+}
+.md-typeset .yoga > .admonition-title,
+.md-typeset .yoga > summary {
+  background-color: rgba(255, 236, 61, 0.1);
+}
+.md-typeset .yoga > .admonition-title::before,
+.md-typeset .yoga > summary::before {
+  background-color: rgb(255, 236, 61);
+  -webkit-mask-image: var(--md-admonition-icon--yoga);
+          mask-image: var(--md-admonition-icon--yoga);
+}

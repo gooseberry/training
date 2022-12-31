@@ -15,4 +15,4 @@ tags:
 3. Slowly lower your leg down back to the starting position.
 4. Bring your other leg up slowly as high as you can.
 5. Slowly lower your lef down back to the starting position.
-6. Repeat this exercise, alternating which leg you bring up.
+6. Repeat this exercise, alternating which leg you bring up for the duration of the exercise.
