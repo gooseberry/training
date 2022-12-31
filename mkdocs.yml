@@ -34,6 +34,7 @@ theme:
             int: material/timer-outline
             crd: material/heart-pulse
             yoga: material/yoga
+            nogear: material/run
         
     palette:
 
@@ -80,6 +81,7 @@ extra:
         cardio: crd
         full-body: str
         yoga: yoga
+        nogear: nogear
 
 # Extensions
 markdown_extensions:

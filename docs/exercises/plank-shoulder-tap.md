@@ -2,13 +2,12 @@
 tags:
     - strength
     - core
+    - nogear
 ---
 
 #  Plank Shoulder Tap
 
 !!! equipment "No equipment required for this exercise."
-
-## Starting Position
 
 --8<-- "high-plank.md"
 
