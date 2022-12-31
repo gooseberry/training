@@ -84,6 +84,7 @@ extra:
 # Extensions
 markdown_extensions:
     - admonition
+    - def_list
     - wikilinks
     - attr_list
     - pymdownx.critic
