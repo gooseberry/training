@@ -1,9 +1,6 @@
 ---
 tags:
     - strength
-    - back
-    - bicep
-    - core
     - TRX
 ---
 

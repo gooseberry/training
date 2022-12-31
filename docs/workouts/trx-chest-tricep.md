@@ -1,9 +1,6 @@
 ---
 tags:
     - strength
-    - tricep
-    - chest
-    - core
     - TRX
 ---
 
