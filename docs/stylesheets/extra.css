@@ -105,3 +105,21 @@
   -webkit-mask-image: var(--md-admonition-icon--yoga);
           mask-image: var(--md-admonition-icon--yoga);
 }
+
+:root {
+  --md-admonition-icon--calendar: url('data:image/svg+xml;charset-utf-8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9 10v2H7v-2h2m4 0v2h-2v-2h2m4 0v2h-2v-2h2m2-7a2 2 0 0 1 2 2v14a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h1V1h2v2h8V1h2v2h1m0 16V8H5v11h14M9 14v2H7v-2h2m4 0v2h-2v-2h2m4 0v2h-2v-2h2Z"/></svg>')
+}
+.md-typeset .admonition.calendar,
+.md-typeset details.calendar {
+  border-color: rgb(255, 236, 61);
+}
+.md-typeset .calendar > .admonition-title,
+.md-typeset .calendar > summary {
+  background-color: rgba(255, 236, 61, 0.1);
+}
+.md-typeset .calendar > .admonition-title::before,
+.md-typeset .calendar > summary::before {
+  background-color: rgb(255, 236, 61);
+  -webkit-mask-image: var(--md-admonition-icon--calendar);
+          mask-image: var(--md-admonition-icon--calendar);
+}
