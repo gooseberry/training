@@ -4,7 +4,7 @@ Each individual exercise is outlined in a dedicated page according to a specific
 
 ## Tags
 
-Tags are used to within exercises, workouts, and schedules to help identify and categorize these and improve search results within this site.  Tags are mostly used to identify categories, muscle groups, and required equipment.  You can have a look at a _tags_ index for this site [here](about/tags.md).
+Tags are used to within exercises, workouts, and schedules to help identify and categorize these and improve search results within this site.  Tags are mostly used to identify categories, muscle groups, and required equipment.  You can have a look at a _tags_ index for this site [here](../about/tags.md).
 
 ### Categories
 
