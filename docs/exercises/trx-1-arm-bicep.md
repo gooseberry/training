@@ -20,6 +20,6 @@ tags:
 3. Keep your upper arms from moving and maintain a straight body position while you bend your elbows to bring your arms up toward your face slowly, pulling your body upward.
 4. Once you have bent your elbows past 90-degrees, slowly straighten your elbows to lower your body to the starting position.
 
-!!! tip "Modifications for difficulty"
+## Variations
 
-    You can move your stance further from the anchor point to stand up straighter and make this exercise easier.  Conversely, you can move your feet closer and extend the TRX straps to lean further into the starting position, making the exercise much harder.
+--8<-- "trx-strength.md"
