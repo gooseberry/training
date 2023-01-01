@@ -61,9 +61,12 @@ theme:
     features:
         - navigation.instant
         - navigation.tracking
+        - navigation.expand
+        - navigation.sections
         - navigation.tabs
         - navigation.top
         - navigation.indexes
+        - toc.follow
 
 # Extras
 extra:
