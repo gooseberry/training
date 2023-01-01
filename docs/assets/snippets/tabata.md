@@ -1,0 +1,1 @@
+The Tabata Workout routine is a variation on High Intensity Interval Training (HIIT) consisting of 8 different rounds.  Each round lasts 4 minutes and includes 8 sets of intense workouts for 20 seconds separated by 10 seconds pauses.  Once you've completed a round, take a full minute break before continuing on to the next round and continue on so until all 8 rounds are completed.

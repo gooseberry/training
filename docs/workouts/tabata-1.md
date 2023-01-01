@@ -5,6 +5,8 @@ tags:
 ---
 # Tabata Full Body Workout 1
 
+--8<-- "tabata.md"
+
 !!! interval "Round 1: Cardio - 4 sets"
 
     | Exercise                                      | Duration | Rest Time |
