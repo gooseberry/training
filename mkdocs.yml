@@ -117,8 +117,8 @@ plugins:
 # Page tree
 nav:
     - Home: "index.md"
-    - Schedules: 
-        - schedules/index.md
+    - Programs: 
+        - programs/index.md
         - TRX 1 Week Program: "schedules/trx-1-week-program.md"
     - Workouts: 
         - workouts/index.md
@@ -183,7 +183,7 @@ nav:
         - TRX Wide-Grip Chest Press: "exercises/trx-wide-chest-press.md"
         - TRX Y: "exercises/trx-y.md"
         - V-Sit Hold: "exercises/v-sit-hold.md"
-    - Tips & Tricks
+    - Tips & Tricks:
         - tips/index.md
     - About:
         - about/index.md
