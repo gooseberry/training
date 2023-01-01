@@ -126,6 +126,7 @@ nav:
         - Tabata Workout 1: workouts/tabata-1.md
         - TRX Back & Biceps: "workouts/trx-back-bicep.md"
         - TRX Chest & Triceps: "workouts/trx-chest-tricep.md"
+        - TRX Legs & Shoulders: "workouts/trx-leg-shoulder.md"
     - Exercises:
         - exercises/index.md
         - 1 Up 2 Down: "exercises/1-up-2-down.md"
@@ -172,6 +173,8 @@ nav:
         - TRX Tricep Extension: "exercises/trx-tricep-extension.md"
         - TRX Wide-Grip Chest Press: "exercises/trx-wide-chest-press.md"
         - V-Sit Hold: "exercises/v-sit-hold.md"
+    - Tips & Tricks
+        - tips/index.md
     - About:
         - about/index.md
         - Tags: "about/tags.md"

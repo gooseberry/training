@@ -34,7 +34,7 @@ tags:
 
     | Exercise                                                  | Reps |
     |----------                                                 |:-----|
-    | [TRX Y](../exercises/trx-y.md)                            | 10 |
+    | [TRX T](../exercises/trx-t.md)                            | 10 |
     | [TRX Bicep Clutch Curl](../exercises/trx-bicep-clutch.md) | 10 |
 
 !!! strength "Round 4 - 1 set"

@@ -6,7 +6,7 @@ Welcome to my collection of workouts and exercises.  The site is designed to pre
 
 You'll find the site is structured in three major sections: schedules, workouts, and exercises.  Feel free to navigate through each section at your leisure to familiarize yourself with the information in these pages.  
 
-## [Schedules](schedules)
+## [Programs](programs)
 
 A series of workouts presented as a limited calendar. Schedules can run for as short as a week or as long as three months.  Each marked workout referenced within the schedules can be found in the workouts section of this site.
 

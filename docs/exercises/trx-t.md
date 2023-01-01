@@ -6,7 +6,7 @@ tags:
     - TRX
 ---
 
-# TRX Y
+# TRX T
 
 !!! equipment "Equipment"
 
@@ -18,7 +18,7 @@ tags:
 
 ## Instructions
 
-1. Keeping your elbows straight, open your arms and raise them up into a Y-shape above your head.
+1. Pull your arms out directly to each side, keeping your elbows straight, to form a T at your shoulders.
 2. Slowly bring your arms together in front of you to the starting position, keeping your elbows straight throughout the move.
 
 ## Variations
