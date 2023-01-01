@@ -30,15 +30,15 @@ tags:
 
     | Exercise                                             | Reps |
     |----------                                            |:-----|
-    | [TRX Pistol Squats](../exercises/trx-close-press.md) | 8 |
+    | [TRX Pistol Squats](../exercises/trx-pistol-squat.md) | 8 |
     | [TRX Y](../exercises/trx-y.md)                       | 8 |
 
 !!! strength "Round 3 - 3 sets"
 
     | Exercise                                             | Reps |
     |----------                                            |:-----|
-    | [TRX Hamstring Curls](../exercises/trx-hamstring.md) | 15 |
-    | [TRX Front Raise](../exercises/trx-front-raise.md)   | 10 |
+    | [TRX Hamstring Curls](../exercises/trx-hamstring-curl.md) | 15 |
+    | [TRX Front Shoulder Raise](../exercises/trx-front-raise.md)   | 10 |
 
 !!! strength "Round 4 - 1 set"
 

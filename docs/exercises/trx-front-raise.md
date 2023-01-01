@@ -6,7 +6,7 @@ tags:
     - TRX
 ---
 
-# TRX Front Raise with Hammer Grip
+# TRX Front Shoulder Raise with Hammer Grip
 
 !!! equipment "Equipment"
 
