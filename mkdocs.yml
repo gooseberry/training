@@ -25,7 +25,7 @@ theme:
             warning: material/weight-lifter
             example: material/yoga
             success: material/timer-outline
-            quote: material/run
+            quote: material/sleep
             abstract: material/yin-yang
         tag:
             str: material/weight-lifter
