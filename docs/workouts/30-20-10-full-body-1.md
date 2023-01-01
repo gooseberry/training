@@ -5,7 +5,15 @@ tags:
 ---
 # 30-20-10 Full Body Workout 1
 
+## Description
+
 --8<-- "30-20-10.md"
+
+## Equipment
+
+!!! equipment "No equipment required for this workout."
+
+## Rounds
 
 !!! interval "Round 1: Cardio - 4 sets"
 

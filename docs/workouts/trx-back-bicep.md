@@ -14,7 +14,7 @@ tags:
     
     * TRX Suspension Trainer
 
-## Workout
+## Rounds
 
 !!! strength "Round 1 - 3 sets"
 

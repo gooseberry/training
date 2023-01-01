@@ -5,7 +5,15 @@ tags:
 ---
 # Tabata Full Body Workout 1
 
+## Description
+
 --8<-- "tabata.md"
+
+## Equipment
+
+!!! equipment "No equipment required for this workout."
+
+## Rounds
 
 !!! interval "Round 1: Cardio - 4 sets"
 
