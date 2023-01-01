@@ -14,13 +14,15 @@ tags:
     
     * TRX Suspension Trainer
 
+--8<-- "trx-inverted.md"
+
 ## Instructions
 
-1. Stand with the TRX handles in your hands, facing toward the anchor point.
-2. With your arms straight out in front of you with your wrist point up, lean or step back until all slack is removed from the suspension straps - this is the starting position.
-3. Keep your upper arms from moving and maintain a straight body position while you bend your elbows to bring your arms up toward your face slowly, pulling your body upward.
-4. Once you have bent your elbows past 90-degrees, slowly straighten your elbows to lower your body to the starting position.
+1. Keeping your body straight and your core tight, bend your arms and pull your body up to the handles. Keep your elbows close to your sides and your wrists straight.
+2. Straighten out your arms back out to the starting position.
 
-!!! tip "Modifications for difficulty"
+## Variations
 
-    You can move your stance further from the anchor point to stand up straighter and make this exercise easier.  Conversely, you can move your feet closer and extend the TRX straps to lean further into the starting position, making the exercise much harder.
+!!! strength "Varations for strength"
+
+    Make this exercise easier by bending your legs, or harder by placing straightening your legs and placing your heels on the floor.

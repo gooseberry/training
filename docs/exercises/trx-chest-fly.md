@@ -13,7 +13,7 @@ tags:
     
     * TRX Suspension Trainer
 
---8<-- "trx-plank.md"
+--8<-- "trx-press.md"
 
 ## Instructions
 

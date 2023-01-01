@@ -162,6 +162,7 @@ nav:
         - Squat Hold: "exercises/squat-hold.md"
         - Star Jump: "exercises/star-jump.md"
         - T-Push Up: "exercises/t-push-up.md"
+        - TRX Bicep Clutch: "exercise/trx-bicep-clutch.md"
         - TRX Bicep Curl: "exercises/trx-bicep-curl.md"
         - TRX Chest Fly: "exercises/trx-chest-fly.md"
         - TRX Clock Press: "exercises/trx-clock-press.md"
@@ -170,8 +171,10 @@ nav:
         - TRX Inverted Row: "exerceses/trx-inverted-row.md"
         - TRX Single Arm Bicep Curl: "exercises/trx-1-arm-bicep.md"
         - TRX Single Arm Row: "exercises/trx-1-arm-row.md"
+        - TRX T: "exercises:trx-t.md"
         - TRX Tricep Extension: "exercises/trx-tricep-extension.md"
         - TRX Wide-Grip Chest Press: "exercises/trx-wide-chest-press.md"
+        - TRX Y: "exercises/trx-y.md"
         - V-Sit Hold: "exercises/v-sit-hold.md"
     - Tips & Tricks
         - tips/index.md

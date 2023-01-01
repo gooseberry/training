@@ -16,13 +16,13 @@ tags:
     
     * TRX Suspension Trainer
 
---8<-- "trx-plank.md"
+--8<-- "trx-press.md"
 
 ## Instructions
 
 1. With your wrists facing down, bend one elbow into a chest press while your extend the other arm out to the side keeping that elbow straight.
 2. Push your arms back into the starting position.
-3. Repeat steps 1 & 2, alternating which are extends out to the side.
+3. Repeat steps 1 & 2, swapping out which arm extends to the side.
 
 ## Variations
 

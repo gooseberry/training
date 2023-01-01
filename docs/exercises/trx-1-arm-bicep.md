@@ -13,13 +13,15 @@ tags:
     
     * TRX Suspension Trainer
 
+--8<-- "trx-single.md"
+
+--8<-- "trx-side-plank.md"
+
 ## Instructions
 
-1. Stand with the TRX handles in your hands, facing toward the anchor point.
-2. With your arms straight out in front of you with your wrist point up, lean or step back until all slack is removed from the suspension straps - this is the starting position.
-3. Keep your upper arms from moving and maintain a straight body position while you bend your elbows to bring your arms up toward your face slowly, pulling your body upward.
-4. Once you have bent your elbows past 90-degrees, slowly straighten your elbows to lower your body to the starting position.
+1. Holding only the single handle in one arm, pull your body up by curling your bicep, bringing your hand toward your head.
+3. Slowly release your arm and back to return to the starting position.
 
 ## Variations
 
---8<-- "trx-strength.md"
+--8<-- "trx-variation.md"
