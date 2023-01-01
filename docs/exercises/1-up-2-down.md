@@ -9,6 +9,8 @@ tags:
 
 !!! equipment "No equipment required for this exercise."
 
+--8<-- "hollow-body.md"
+
 ## Instructions
 
 1. Lie on your back with your legs straight and your feet a few inches off the floor.
