@@ -44,5 +44,5 @@ tags:
 
     | Exercise                                           | Reps |
     |----------                                          |:-----|
-    | [TRX Pike]](../exercises/trx-pike.md)          | 10 |
+    | [TRX Pike](../exercises/trx-pike.md)          | 10 |
     | [TRX Side Plank](../exercises/trx-side-plank.md)     | 30 |
