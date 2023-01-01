@@ -5,7 +5,7 @@ tags:
 ---
 # 30-20-10 Full Body Workout 1
 
---8<-- "30-20-10.md"s
+--8<-- "30-20-10.md"
 
 !!! interval "Round 1: Cardio - 4 sets"
 
