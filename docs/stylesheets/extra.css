@@ -97,7 +97,7 @@
 }
 .md-typeset .yoga > .admonition-title,
 .md-typeset .yoga > summary {
-  background-color: rgba(255, 236, 61, 0.1);
+  background-color: rgb(105, 97, 23);
 }
 .md-typeset .yoga > .admonition-title::before,
 .md-typeset .yoga > summary::before {
