@@ -6,7 +6,7 @@ tags:
     - TRX
 ---
 
-# TRX Face Pull
+# TRX Hamstring Pull
 
 !!! equipment "Equipment"
 
