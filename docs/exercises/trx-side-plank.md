@@ -1,8 +1,7 @@
 ---
 tags:
-    - strength
-    - back
-    - shoulder
+    - core
+    - shoulders
     - TRX
 ---
 

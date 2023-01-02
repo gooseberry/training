@@ -1,6 +1,6 @@
 ---
 tags:
-    - cardio
+    - legs
     - no-gear
 ---
 
@@ -8,12 +8,9 @@ tags:
 
 !!! equipment "No equipment required for this exercise."
 
-## Starting Position
-
-Standing with a wide stance
+--8<-- "standing.md"
 
 ## Instructions
 
-1. Jump to the left, crossing your right leg behind the left leg without letting it touch the floor.  Bend the left knee to 90 degrees to get into a low lunge.
-2. Push off the left leg to jump to the right, landing on your right leg.  Cross your left leg behind the right and bend your right knee into a low lunge.
-3. Repeat the jump from side to side for the duration of the exercise.
+1. Jump to the left, bending the left leg to absorb the impact and crossing your right leg behind the left leg without letting it touch the floor.
+2. Jump back to the right, bending the right leg to absorb the impact and crossing your left leg behind the right without letting it touch the floor.

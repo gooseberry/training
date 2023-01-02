@@ -1,6 +1,5 @@
 ---
 tags:
-    - strength
     - core
     - no-gear
 ---

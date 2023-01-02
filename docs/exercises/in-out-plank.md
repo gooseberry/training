@@ -1,6 +1,5 @@
 ---
 tags:
-    - cardio
     - core
     - no-gear
 ---

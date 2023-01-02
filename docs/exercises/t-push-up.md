@@ -1,6 +1,5 @@
 ---
 tags:
-    - strength
     - chest
     - shoulder
     - tricep
@@ -16,5 +15,5 @@ tags:
 ## Instructions
 
 1. Bend your elbows to lower your chest to the floor.
-2. Press your hands against the floor to push your body back up, shift your weight to the right hand and raise your left hand in the air, turning your body into a side plank.
-3. Repeat steps 1 and 2 above, but this time, shift your weight to the left hand and turn to a side plank with your right hand in the air.
+2. Press your hands against the floor to push your body back up, shift your weight to one hand while lifting the opposite hand in the air directly above your shoulder in line with the other arm.
+3. Repeat the press alternating which arm your raise above your head at every push up.

@@ -1,8 +1,6 @@
 ---
 tags:
-    - strength
-    - back
-    - shoulder
+    - legs
     - TRX
 ---
 
@@ -15,8 +13,6 @@ tags:
     * TRX Suspension Trainer
 
 --8<-- "trx-face-up.md"
-
-
 
 ## Instructions
 

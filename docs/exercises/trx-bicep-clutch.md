@@ -1,6 +1,5 @@
 ---
 tags:
-    - strength
     - bicep
     - TRX
 ---

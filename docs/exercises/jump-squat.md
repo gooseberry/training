@@ -1,7 +1,5 @@
 ---
 tags:
-    - strength
-    - cardio
     - legs
     - no-gear
 ---
@@ -10,11 +8,11 @@ tags:
 
 !!! equipment "No equipment required for this exercise."
 
+--8<-- "squat.md"
+
 ## Instructions
 
-1. Start in a standing upright position, with your feet planted solidly on the floor shoulder width apart.  Bend your knees and lower your hips down to a high squat position, your knees should be bent slight above 90 degrees.
-2. Power up through your legs to a standing position, jumping up into the air.  Land softly bending your knees back to the high squat position.
-3. Repeat this movement for the duration of the exercise.
+1. Power up through your legs to jump up into the air, swinging your arms back for extra momentum.  Land softly bending your knees back to the high squat position.
 
 ## Variations
 

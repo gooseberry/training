@@ -1,7 +1,5 @@
 ---
 tags:
-    - strength
-    - cardio
     - legs
     - no-gear
 ---
@@ -10,11 +8,12 @@ tags:
 
 !!! equipment "No equipment required for this exercise."
 
+--8<-- "standing.md"
+
 ## Instructions
 
-1. Stand in a lunge position with on leg forward, knee bent to 90 degrees and your thigh parallel to the floor.  Your other knee should be in line with your back to form a straight line down as close to the floor as you can.
+1. Jump to a lunge position with on leg forward, knee bent to 90 degrees and your thigh parallel to the floor.  Your other knee should be in line with your back to form a straight line down as close to the floor as you can.
 2. Jump off the floor with both feet and switch your leg position mid-air to land in a lunge with the opposite leg forward.
-3. Repeat this movement for the duration of the exercise.
 
 ## Variations
 

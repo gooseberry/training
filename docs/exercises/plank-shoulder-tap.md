@@ -1,6 +1,5 @@
 ---
 tags:
-    - strength
     - core
     - no-gear
 ---
@@ -13,6 +12,4 @@ tags:
 
 ## Instructions
 
-1. Shift your weight to your left hand and bend your right elbow to lift your right hand to your left shoulder and return to plank position.
-2. Shift your weight to your right hand and repeat motion with your left hand.
-3. Repeat this motion, alternating between sides for the duration of the exercise.
+1. Shift your weight from one hand to the other while lifting the opposite hand, bending at the elbow, to tap your shoulder across from your chest and bring your hand back to the floor.

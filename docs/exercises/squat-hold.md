@@ -1,6 +1,5 @@
 ---
 tags:
-    - strength
     - legs
     - no-gear
 ---

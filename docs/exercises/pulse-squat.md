@@ -1,6 +1,5 @@
 ---
 tags:
-    - strength
     - legs
     - no-gear
 ---
@@ -9,8 +8,8 @@ tags:
 
 !!! equipment "No equipment required for this exercise."
 
+--8<-- "squat.md"
+
 ## Instructions
 
-1. Start in a standing upright position, with your feet planted solidly on the floor shoulder width apart.  Bend your knees and lower your hips down to a high squat position, your knees should be bent slight above 90 degrees.
-2. Pulse your hips up and down between two to three inches.
-3. Continue pulsing your hips for the duration of the exercise.
+2. Pulse your hips up and down between two to three inches in a continuous motion.
