@@ -23,4 +23,12 @@ tags:
 
 ## Variations
 
+!!! strength "Variation for back"
+
+    Pull your arms out wide, expand your chest and reach your elbows as far back as you can.
+
+!!! strength "Variation for shoulders"
+
+    Keep your chest neutral and keep your elbows from pulling back.  Instead, focus on pushing your arms out as wide as possible.
+
 --8<-- "trx-variation.md"
