@@ -21,15 +21,15 @@
 }
 .md-typeset .admonition.cardio,
 .md-typeset details.cardio {
-  border-color: rgb(255, 236, 61);
+  border-color: rgb(251, 192, 45);
 }
 .md-typeset .cardio > .admonition-title,
 .md-typeset .cardio > summary {
-  background-color: rgba(255, 236, 61, 0.1);
+  background-color: rgba(251, 192, 45, 0.1);
 }
 .md-typeset .cardio > .admonition-title::before,
 .md-typeset .cardio > summary::before {
-  background-color: rgb(255, 236, 61);
+  background-color: rgb(251, 192, 45);
   -webkit-mask-image: var(--md-admonition-icon--cardio);
           mask-image: var(--md-admonition-icon--cardio);
 }
@@ -39,15 +39,15 @@
 }
 .md-typeset .admonition.strength,
 .md-typeset details.strength {
-  border-color: rgb(255, 236, 61);
+  border-color: rgb(251, 192, 45);
 }
 .md-typeset .strength > .admonition-title,
 .md-typeset .strength > summary {
-  background-color: rgba(255, 236, 61, 0.1);
+  background-color: rgba(251, 192, 45, 0.1);
 }
 .md-typeset .strength > .admonition-title::before,
 .md-typeset .strength > summary::before {
-  background-color: rgb(255, 236, 61);
+  background-color: rgb(251, 192, 45);
   -webkit-mask-image: var(--md-admonition-icon--strength);
           mask-image: var(--md-admonition-icon--strength);
 }
@@ -57,15 +57,15 @@
 }
 .md-typeset .admonition.interval,
 .md-typeset details.interval {
-  border-color: rgb(255, 236, 61);
+  border-color: rgb(251, 192, 45);
 }
 .md-typeset .interval > .admonition-title,
 .md-typeset .interval > summary {
-  background-color: rgba(255, 236, 61, 0.1);
+  background-color: rgba(251, 192, 45, 0.1);
 }
 .md-typeset .interval > .admonition-title::before,
 .md-typeset .interval > summary::before {
-  background-color: rgb(255, 236, 61);
+  background-color: rgb(251, 192, 45);
   -webkit-mask-image: var(--md-admonition-icon--interval);
           mask-image: var(--md-admonition-icon--interval);
 }
@@ -75,15 +75,15 @@
 }
 .md-typeset .admonition.rest,
 .md-typeset details.rest {
-  border-color: rgb(255, 236, 61);
+  border-color: rgb(251, 192, 45);
 }
 .md-typeset .rest > .admonition-title,
 .md-typeset .rest > summary {
-  background-color: rgba(255, 236, 61, 0.1);
+  background-color: rgba(251, 192, 45, 0.1);
 }
 .md-typeset .rest > .admonition-title::before,
 .md-typeset .rest > summary::before {
-  background-color: rgb(255, 236, 61);
+  background-color: rgb(251, 192, 45);
   -webkit-mask-image: var(--md-admonition-icon--rest);
           mask-image: var(--md-admonition-icon--rest);
 }
@@ -93,15 +93,15 @@
 }
 .md-typeset .admonition.yoga,
 .md-typeset details.yoga {
-  border-color: rgb(255, 236, 61);
+  border-color: rgb(251, 192, 45);
 }
 .md-typeset .yoga > .admonition-title,
 .md-typeset .yoga > summary {
-  background-color: rgb(255, 236, 61, 0.1);
+  background-color: rgb(251, 192, 45, 0.1);
 }
 .md-typeset .yoga > .admonition-title::before,
 .md-typeset .yoga > summary::before {
-  background-color: rgb(255, 236, 61);
+  background-color: rgb(251, 192, 45);
   -webkit-mask-image: var(--md-admonition-icon--yoga);
           mask-image: var(--md-admonition-icon--yoga);
 }
@@ -111,15 +111,15 @@
 }
 .md-typeset .admonition.calendar,
 .md-typeset details.calendar {
-  border-color: rgb(255, 236, 61);
+  border-color: rgb(251, 192, 45);
 }
 .md-typeset .calendar > .admonition-title,
 .md-typeset .calendar > summary {
-  background-color: rgba(255, 236, 61, 0.1);
+  background-color: rgba(251, 192, 45, 0.1);
 }
 .md-typeset .calendar > .admonition-title::before,
 .md-typeset .calendar > summary::before {
-  background-color: rgb(255, 236, 61);
+  background-color: rgb(251, 192, 45);
   -webkit-mask-image: var(--md-admonition-icon--calendar);
           mask-image: var(--md-admonition-icon--calendar);
 }
