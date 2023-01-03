@@ -123,6 +123,7 @@ nav:
     - Workouts: 
         - workouts/index.md
         - 30-20-10 Full Body Workout 1: workouts/30-20-10-full-body-1.md
+        - 60 to 10 Full Body Workout 1: "workouts/60-10-full-body-1.md"
         - Tabata Workout 1: workouts/tabata-1.md
         - TRX Back & Biceps: "workouts/trx-back-bicep.md"
         - TRX Chest & Triceps: "workouts/trx-chest-tricep.md"
@@ -187,6 +188,7 @@ nav:
         - V-Sit Hold: "exercises/v-sit-hold.md"
     - Tips & Tricks:
         - tips/index.md
+        - Balance vs Stability: "tips/balance-stability.md"
     - About:
         - about/index.md
         - Tags: "about/tags.md"
