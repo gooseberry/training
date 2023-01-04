@@ -148,6 +148,10 @@ nav:
         - Jack Knife: "exercises/jack-knife.md"
         - Jump Lunge: "exercises/jump-lunge.md"
         - Jump Squat: "exercises/jump-squat.md"
+        - Kettlebell Clean & Press: "exercises/kettlebell-clean-press.md"
+        - Kettlebell Goblet Squat: "exercises/kettlebell-goblet-squat.md"
+        - Kettlebell Hip Halo: "exercises/kettlebell-hip-halo.md"
+        - Kettlebell Swing: "exercises/kettlebell-swing.md"
         - Mason Twist: "exercises/mason-twist.md"
         - Mountain Climber: "exercises/mountain-climber.md"
         - Plank Hip Swing: "exercises/plank-swing.md"
@@ -185,6 +189,7 @@ nav:
         - TRX Tricep Extension: "exercises/trx-tricep-extension.md"
         - TRX Wide-Grip Chest Press: "exercises/trx-wide-chest-press.md"
         - TRX Y: "exercises/trx-y.md"
+        - Turkish Get-Up: "exercises/turkish-get-up.md"
         - V-Sit Hold: "exercises/v-sit-hold.md"
     - Tips & Tricks:
         - tips/index.md
