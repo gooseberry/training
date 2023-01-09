@@ -30,12 +30,13 @@ tags:
     | [TRX Close Grip Press](../exercises/trx-close-press.md) | 10 |
     | [TRX Chest Fly](../exercises/trx-chest-fly.md)          | 10 |
 
-!!! strength "Round 3 - 4 sets"
+!!! strength "Round 3 - 3 sets"
 
     | Exercise                                        | Reps |
     |----------                                       |:-----|
     | [TRX Dip](../exercises/trx-dip.md)                 | 8 |
-    | [TRX Clock Press](../exercises/trx-clock-press.md) | 8 |
+    | [TRX Clock Press](../exercises/trx-clock-press.md) *Right* | 8 |
+    | [TRX Clock Press](../exercises/trx-clock-press.md) *Left*  | 8 |
 
 !!! strength "Round 4 - 1 set"
 
